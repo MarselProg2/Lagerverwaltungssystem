@@ -53,6 +53,7 @@ Das System basiert auf folgenden OOP-Konzepten:
 ## Erweiterungsmöglichkeiten
 
 ### Geplante Funktionalitäten
+->
 1. **Datenpersistenz**
    - Integration einer Datenbank
    - Dateibasierte Speicherung
